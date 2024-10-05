@@ -10,6 +10,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '89.169.173.131',
+    '127.0.0.1'
     'localhost',
     'taski.ddns.net',
 ]
